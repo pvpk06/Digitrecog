@@ -1,2 +1,2 @@
-# Digitrecog
+# Digit_recog
 ML Project
